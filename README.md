@@ -1,90 +1,74 @@
 <h1 align="center">🚗 Refugio Rodante</h1>
 
 <p align="center">
-  Plataforma digital para optimizar el parqueo urbano en Medellín.
+  <em>Plataforma web inteligente para gestionar parqueaderos urbanos en Medellín</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Reserva+en+tiempo+real;Reduce+el+estr%C3%A9s+vehicular+y+el+caos;Tecnolog%C3%ADa+para+una+ciudad+m%C3%A1s+eficiente" />
 </p>
 
 ---
 
-## 🧾 Información General
+## 📌 Información del Proyecto
 
-- **Proyecto**: Refugio Rodante  
-- **Ficha SENA**: 2959814  
-- **Programa de Formación**: Análisis y Desarrollo de Software (ADSO)  
-- **Centro de Formación**: Regional Antioquia  
-- **Instructor Titular**: Guillermo Burgos  
-
----
-
-## 🎯 Descripción del Proyecto
-
-**Refugio Rodante** es una plataforma digital que permite a los conductores de Medellín reservar parqueaderos en tiempo real, consultar disponibilidad, visualizar tarifas en un mapa interactivo y realizar pagos electrónicos. Surge como respuesta a los problemas de movilidad urbana y falta de digitalización en el sector de estacionamiento.
+| Campo                  | Detalle                                                 |
+|------------------------|----------------------------------------------------------|
+| **Nombre**             | Refugio Rodante                                          |
+| **Ficha SENA**         | 2959814                                                  |
+| **Programa**           | Análisis y Desarrollo de Software (ADSO)                |
+| **Centro de Formación**| Regional Antioquia                                       |
+| **Instructor Titular** | Guillermo Burgos                                         |
 
 ---
 
-## 🚦 Problemática Identificada
+## 🧠 Descripción General
 
-- El 65% de los conductores en Medellín pierden hasta **20 minutos** buscando parqueadero (Secretaría de Movilidad, 2023).
-- Solo el **15%** de los parqueaderos aprovechan tecnologías digitales (Cámara de Comercio, 2022).
-- Congestión, contaminación y estrés por la falta de una solución centralizada.
+**Refugio Rodante** es una plataforma web que busca resolver la escasez y desorganización de parqueaderos en Medellín. A través de reservas digitales, mapas interactivos y pagos en línea, la aplicación mejora la experiencia del conductor y contribuye a descongestionar zonas críticas de la ciudad.
 
 ---
 
----
+## 🚧 Problemática
 
-## 📎 Enlaces Útiles (Presionar el ICONO DE CADA UNO)
-
-<a href="https://github.com/SrAlucart/Versiones.git" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-</a>
-Versión del Proyecto
-
-<br/>
-
-<a href="https://sralucart.github.io/Esquema.github.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-</a>
-Vista Proyecto en su Versión 1.3 Alpha
-<br/>
-
-<a href="https://www.notion.so/1bfd186f595a806bbecef05599b83244?v=1bfd186f595a81198652000c8f6d0403&pvs=4" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="Notion" />
-</a>
- Notion
+- ⏱️ El 65% de los conductores pierde en promedio 20 minutos buscando parqueadero.
+- 📉 Solo el 15% de los parqueaderos privados implementa tecnologías digitales.
+- 🚦 Esto genera congestión vehicular, contaminación ambiental y estrés ciudadano.
 
 ---
 
 ## 💡 Solución Propuesta
 
-- 🗺️ Mapa interactivo de disponibilidad y tarifas.
-- 📲 Sistema de reservas en tiempo real.
-- 💳 Pagos integrados (efectivo, tarjeta, móvil).
-- 🔔 Notificaciones para recordatorio y control de multas.
+- 🗺️ Mapa interactivo con disponibilidad en tiempo real.
+- 📲 Sistema de reservas anticipadas desde app/web.
+- 💳 Integración con múltiples métodos de pago (efectivo, tarjeta, móvil).
+- 🔔 Notificaciones automáticas y recordatorios para evitar sanciones.
 
 ---
 
-## ⚙️ Objetivos
+## 🎯 Objetivos
 
-### Objetivo General
-Desarrollar una plataforma digital para la reserva eficiente de parqueaderos en Medellín, integrando geolocalización, pagos electrónicos y notificaciones.
+### 🎯 Objetivo General
+Desarrollar una plataforma digital para la reserva inteligente de parqueaderos en Medellín, integrando geolocalización, pagos digitales y recordatorios automáticos.
 
-### Objetivos Específicos
-- Levantamiento de requerimientos con usuarios y administradores.
-- Diseño de base de datos y prototipos (Figma).
-- Desarrollo de módulos de reserva, pago y mapas.
-- Pruebas con usuarios y documentación técnica.
-
----
-
-## 🚀 Innovaciones del Proyecto
-
-- 🏘️ Inclusividad: reservas en parqueaderos particulares (modelo tipo “Airbnb”).
-- 🔌 Sostenibilidad: integración con cargadores eléctricos.
-- 📱 Mobile-first: enfoque adaptable a móviles y web.
+### ✅ Objetivos Específicos
+- Levantar requerimientos con usuarios y administradores de parqueaderos.
+- Diseñar base de datos y prototipos de la interfaz.
+- Implementar módulos de reserva, pago y visualización.
+- Probar el sistema con usuarios reales y documentar el proceso.
 
 ---
 
-## 🧑‍💻 Stack Tecnológico
+## 🔍 Características Clave
+
+- 🔐 Autenticación y gestión de usuarios.
+- 🅿️ Visualización de parqueaderos públicos y privados.
+- 🧾 Historial de reservas y reportes administrativos.
+- ⚡ Soporte para parqueaderos con cargadores eléctricos.
+- 🛠️ Panel de control para operadores y administración.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="Laravel" />
@@ -93,62 +77,82 @@ Desarrollar una plataforma digital para la reserva eficiente de parqueaderos en 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </p>
 
 ---
 
-## 🧱 Alcance y Fases
+## 📎 Enlaces Útiles (Presiona el ícono)
 
-| Fase | Actividades Principales |
-|------|--------------------------|
-| Sprint 0 | Entrevistas, definición de stack tecnológico |
-| Sprint 1 | Diseño de base de datos y mockups |
-| Sprint 2-4 | Desarrollo de autenticación, reservas, integración con API de mapas/pagos |
-| Sprint Final | Pruebas con 50 usuarios y ajustes según feedback |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SrAlucart/Versiones.git" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+        <br/>Versión del Proyecto
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://sralucart.github.io/Esquema.github.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+        <br/>Vista Versión 1.3 Alpha
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.notion.so/1bfd186f595a806bbecef05599b83244?v=1bfd186f595a81198652000c8f6d0403&pvs=4" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
+        <br/>Planificación en Notion
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📅 Etapas del Proyecto
+
+| Fase          | Actividades Principales                                       |
+|---------------|---------------------------------------------------------------|
+| 🧪 Sprint 0    | Entrevistas, análisis, definición del stack tecnológico       |
+| 🧠 Sprint 1    | Modelado de base de datos, diseño de prototipos (Figma)       |
+| 🧱 Sprint 2-4  | Desarrollo de módulos (reserva, pagos, mapas, autenticación)  |
+| 🧪 Sprint Final| Pruebas con usuarios, documentación y ajustes finales         |
 
 ---
 
 ## 📈 Resultados Esperados
 
-- MVP funcional con reservas y pagos integrados.
-- Reducción del 15% en tiempo de búsqueda de parqueo (zona piloto).
-- Escalabilidad para incluir transporte público (Metro Medellín).
-- Manual de usuario y documentación técnica completa.
+- MVP funcional con reservas, mapas y pagos.
+- Reducción del 15% en tiempo promedio de búsqueda de parqueo.
+- Documentación técnica y manual de usuario.
+- Escalabilidad para integración con transporte público (Metro de Medellín).
 
 ---
 
-## 📚 Marco Legal
+## 🧠 Lecciones y Proyección
 
-- Ley 23 de 1982: Protección de software.
-- Resolución DIAN 000042/2020: Facturación electrónica.
-
----
-
-## 🔍 Comparativa con Plataformas Similares
-
-| Plataforma | Características | Diferencias |
-|------------|-----------------|-------------|
-| ParqueApp | Solo muestra disponibilidad | No permite reservas |
-| EstacionaTEC | Enfocado en centros comerciales | No adaptable a calles |
-| CityParking | Escalable, con pagos digitales | Menor enfoque local |
-| Refugio Rodante | Reservas en tiempo real, modelo P2P, geolocalización y pagos | ✅ Innovación local, sostenible |
+- Desarrollo ágil con enfoque MVP.
+- Integración de APIs: Google Maps, Wompi.
+- UX/UI orientado a usabilidad real.
+- Proyección a ciudades intermedias en Colombia.
 
 ---
 
-## 👥 Equipo de Desarrollo
+## 👥 Créditos
 
-- **Emanuel Buritica Guababe** – emanuelburitica2014@gmail.com  
-- **Wilber de Jesús Pineda Valois** – pwilber797@gmail.com  
-- **Gabriel Gonzales**  
-- **Miguel Ángel Guzmán**
+Proyecto desarrollado como parte del **Proyecto Pedagógico Integrador** del SENA (Análisis y Desarrollo de Software).
 
+**Equipo de desarrollo:**
+- 👨‍💻 Emanuel Buritica Guababe – [emanuelburitica2014@gmail.com](mailto:emanuelburitica2014@gmail.com)  
+- 👨‍💻 Wilber de Jesús Pineda Valois – [pwilber797@gmail.com](mailto:pwilber797@gmail.com)  
+- 👨‍💻 Gabriel Gonzales  
+- 👨‍💻 Miguel Ángel Guzmán  
 
+**Instructor guía:**  
+- 👨‍🏫 Guillermo Burgos
 
-## 🤝 Créditos
+---
 
-Proyecto desarrollado como parte del **Proyecto Pedagógico Integrador** del programa ADSO - SENA.
-
-📅 **Versión**: 1.4 – 11 de febrero de 2021  
-👩‍🏫 **Instructor titular**: Guillermo Burgos  
-📍 **Regional Antioquia**
+<p align="center">
+  <strong>🚀 Refugio Rodante: Haciendo de Medellín una ciudad más inteligente</strong>
+</p>
