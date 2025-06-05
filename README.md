@@ -145,7 +145,7 @@ Proyecto desarrollado como parte del **Proyecto Pedagógico Integrador** del SEN
 **Equipo de desarrollo:**
 - 👨‍💻 Emanuel Buritica Guababe – [emanuelburitica2014@gmail.com](mailto:emanuelburitica2014@gmail.com)  
 - 👨‍💻 Wilber de Jesús Pineda Valois – [pwilber797@gmail.com](mailto:pwilber797@gmail.com)  
-- 👨‍💻 Gabriel Gonzales  
+- 👨‍💻 Edna Patricia Castañeda Zapata 
 - 👨‍💻 Miguel Ángel Guzmán  
 
 **Instructor guía:**  
